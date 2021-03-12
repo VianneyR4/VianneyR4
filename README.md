@@ -108,7 +108,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+![Vianney Rwicha's github stats](https://github-readme-stats.vercel.app/api?username=VianneyR4&show_icons=true&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VianneyR4&layout=compact)
 
 </details>
 
