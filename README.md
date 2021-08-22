@@ -11,7 +11,7 @@
 -->
 
 
-## I'm a sun of God, Developer, and a Designer!!
+## I'm a son of God, Developer, and a Designer!!
 <!--
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!  -->
 - 🌱 I’m currently learning (everything 🤣 ...) React Native
