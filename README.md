@@ -13,10 +13,12 @@
 
 ## I'm a son of God, Developer, and a Designer!!
 - 🌱 I’m currently learning (everything 🤣 ...) Mobile Developement
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 👯 I’m looking to collaborate with other content creators and enterprenuers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and watching football
+
+<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
+
 
 <!--
 ### Spotify Playing 🎧
