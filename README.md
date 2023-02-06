@@ -12,13 +12,11 @@
 
 
 ## I'm a son of God, Developer, and a Designer!!
-<!--
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!  -->
 - 🌱 I’m currently learning (everything 🤣 ...) Mobile Developement
-<!--
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects  -->
-- ⚡ Fun fact: I love to play games and football
+<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
+- 👯 I’m looking to collaborate with other content creators and enterprenuers
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play video games and watching football
 
 <!--
 ### Spotify Playing 🎧
@@ -110,7 +108,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+<!-- [website]: https://codeSTACKr.com -->
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
