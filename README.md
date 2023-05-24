@@ -13,7 +13,7 @@
 
 ## I'm a son of God, Developer, and a Designer!!
 - 🌱 I’m currently learning (everything 🤣 ...) Mobile Developement
-- 👯 I’m looking to collaborate with other content creators and enterprenuers
+- 👯 I’m looking to collaborate with other developers, companies and enterprenuers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and watching football
 
